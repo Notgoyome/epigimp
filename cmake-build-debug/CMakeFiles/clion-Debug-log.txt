@@ -1,0 +1,4 @@
+"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/guigui/Applications/CLion Nova.app/Contents/bin/ninja/mac/aarch64/ninja" -G Ninja -S /Users/guigui/CLionProjects/untitled2 -B /Users/guigui/CLionProjects/untitled2/cmake-build-debug
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/guigui/CLionProjects/untitled2/cmake-build-debug

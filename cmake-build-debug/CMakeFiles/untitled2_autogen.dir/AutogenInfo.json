@@ -1,0 +1,216 @@
+{
+	"BUILD_DIR" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/guigui/CLionProjects/untitled2",
+	"CMAKE_EXECUTABLE" : "/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/guigui/CLionProjects/untitled2/CMakeLists.txt",
+		"/Users/guigui/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/guigui/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake",
+		"/Users/guigui/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-CXX.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5/Qt5Config.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeParseArguments.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/opt/homebrew/opt/qt@5/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/guigui/CLionProjects/untitled2",
+	"DEP_FILE" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "untitled2_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/EpiGimp.hpp",
+			"MU",
+			"VJIZ3MDCXP/moc_EpiGimp.cpp",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/core/DrawingArea.hpp",
+			"MU",
+			"XWQA2IWZC5/moc_DrawingArea.cpp",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/core/MainWindow.hpp",
+			"MU",
+			"XWQA2IWZC5/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/layers/Layer.hpp",
+			"MU",
+			"BSEEVOXMC7/moc_Layer.cpp",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/layers/LayerManager.hpp",
+			"MU",
+			"BSEEVOXMC7/moc_LayerManager.cpp",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/menu_bar/CustomMenuBar.hpp",
+			"MU",
+			"I2QZPMWHWH/moc_CustomMenuBar.cpp",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/menu_bar/edit/FileMenu.hpp",
+			"MU",
+			"KHKTGAAPXA/moc_FileMenu.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/opt/homebrew/opt/qt@5/lib/QtCore.framework",
+		"/opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers",
+		"/opt/homebrew/opt/qt@5/mkspecs/macx-clang",
+		"/opt/homebrew/opt/qt@5/lib/QtGui.framework",
+		"/opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/opt/homebrew/opt/qt@5/lib/QtWidgets.framework",
+		"/opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers",
+		"/opt/homebrew/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/Users/guigui/Applications/CLion Nova.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug/untitled2_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 10,
+	"PARSE_CACHE_FILE" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/homebrew/opt/qt@5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/opt/homebrew/opt/qt@5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/guigui/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/Users/guigui/CLionProjects/untitled2/app/EpiGimp.cpp", "MU", null ],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/core/DrawingArea.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/core/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/layers/Layer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/layers/LayerManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/menu_bar/MenuBar.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/guigui/CLionProjects/untitled2/app/menu_bar/edit/FileMenu.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/guigui/CLionProjects/untitled2/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
