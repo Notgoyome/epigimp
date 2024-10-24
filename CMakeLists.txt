@@ -26,7 +26,12 @@ add_executable(untitled2 main.cpp
         app/core/DrawingArea.hpp
         app/core/DrawingArea.cpp
         app/menu_bar/edit/FileMenu.hpp
-        app/menu_bar/edit/FileMenu.cpp)
+        app/menu_bar/edit/FileMenu.cpp
+        app/core/LayerList.hpp
+        app/core/LayerList.cpp
+        app/core/ColorPicker.hpp
+        app/core/Tools.hpp
+        app/core/Tools.cpp)
 target_link_libraries(untitled2
         Qt5::Core
         Qt5::Gui

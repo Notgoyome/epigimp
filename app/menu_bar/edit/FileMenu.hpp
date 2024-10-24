@@ -19,6 +19,8 @@ public:
     ~FileMenu() = default;
 
     void openImage();
+    void exportImage();
+    void newImage();
 };
 
 
